@@ -1,16 +1,15 @@
-# flutter_cubit
+# MountainApp
 
-A new Flutter project.
+Aplicativo desenvolvido para demonstração
 
-## Getting Started
+Desenvolvedor Mobile: 
 
-This project is a starting point for a Flutter application.
+ - Lucas Formigon.
 
-A few resources to get you started if this is your first Flutter project:
+## Configurando o Projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - Clonar o projeto, abrir o arquivo "pubspec.yaml";
+ - Executar "Get Dependencies";
+ - Executar o projeto dentro do arquivo "main.dart";
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Após isso, a aplicação será construida e executada.
